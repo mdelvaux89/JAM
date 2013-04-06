@@ -1,0 +1,44 @@
+func void quicksort(numblength tab, numb left, numb right)
+
+    if (left >= right)
+        return;
+
+
+    elseif (true)
+    papa papa = papa; << le comentaire !
+
+    elseif (ozjebhfzhf(okfjo, dfsdf , 46546'4654, '165) != l)
+
+    je suis = connard;
+    tu es = sympa;
+
+    else
+    	m = 8 + ((quicksilver(prout(45))) + 5);
+    	maman papa = 101'45555555555555555555555;
+
+    -------fi
+
+    numb pivot = tabright;
+    numb finalPos = left;
+    numb tmp;
+
+    for i <- left:(right - 1)
+        if (pivot > tab)
+            tmp = tabfinalPos;
+            tabfinalPos = tabi; << Le beau com's !!
+            tabi = tmp;
+            finalPos = finalPos + 1;
+        -fi
+    -rof
+
+    tabright = tabfinalPos;
+    tabfinalPos = pivot;
+
+    quicksort(tab, left, finalPos - 1);
+    quicksort(tab, finalPos + 1, right);
+
+-cnuf
+
+func void quicksort(numblength tab)
+    quicksort(1,2,3,4,5,6,7,8,9);
+-cnuf
