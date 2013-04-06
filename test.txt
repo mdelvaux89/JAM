@@ -3,7 +3,7 @@ func void quicksort(numblength tab, numb left, numb right)
     if (left >= right)
         return;
 
-
+papa maman = bebe;
     elseif (true)
     papa papa = papa; << le comentaire !
 
